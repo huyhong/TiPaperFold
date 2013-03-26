@@ -9,5 +9,5 @@ bin
 build
 *.zip
 .DS_Store
-PaperFold-for-iOS
+PaperFold-for-iOS/*
 *~
