@@ -5,9 +5,11 @@ Titanium Mobile module for [PaperFold for iOS](https://github.com/honcheng/Paper
 INSTALL MODULE
 --------------------
 
-1. Run `build.py` which creates your distribution
-2. Copy jp.msmc.tipaperfold-0.3.zip into your app project of root directory
-3. Build the project
+1. Run 'git submodule init' initialize [PaperFold for iOS](https://github.com/honcheng/PaperFold-for-iOS/ "PaperFold-for-iOS") as a submodule
+2. Run 'git submodule update' to fetch the PaperFold repo
+3. Run `build.py` which creates your distribution
+4. Copy jp.msmc.tipaperfold-0.3.zip into your app project of root directory
+5. Build the project
 
 REGISTER MODULE
 ---------------------
