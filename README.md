@@ -6,7 +6,7 @@ INSTALL MODULE
 --------------------
 
 1. Run `build.py` which creates your distribution
-2. Copy jp.msmc.tipaperfold-0.1.zip into your app project of root directory
+2. Copy jp.msmc.tipaperfold-0.3.zip into your app project of root directory
 3. Build the project
 
 REGISTER MODULE
@@ -16,7 +16,7 @@ Register your module with your application by editing `tiapp.xml` and adding you
 Example:
 
 	<modules>
-		<module version="0.1">jp.msmc.tipaperfold</module>
+		<module version="0.3">jp.msmc.tipaperfold</module>
 	</modules>
 
 When you run your project, the compiler will know automatically compile in your module
